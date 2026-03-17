@@ -1,0 +1,19 @@
+{
+  "9780143127741": {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "reviews": {
+      "testuser2": "A timeless classic!"
+    }
+  },
+  "9780439023528": {
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "reviews": {}
+  },
+  "9780307277671": {
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "reviews": {}
+  }
+}
